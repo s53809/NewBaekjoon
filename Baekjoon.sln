@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Baekjoon", "Baekjoon\Baekjoon.vcxproj", "{067C0737-0DDD-4CEF-8A9D-5EFE20F42FB7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10157 자리배정", "10157 자리배정\10157 자리배정.vcxproj", "{03E99A45-D9CB-4E22-BD2E-52AFA564A3CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{067C0737-0DDD-4CEF-8A9D-5EFE20F42FB7}.Release|x64.Build.0 = Release|x64
 		{067C0737-0DDD-4CEF-8A9D-5EFE20F42FB7}.Release|x86.ActiveCfg = Release|Win32
 		{067C0737-0DDD-4CEF-8A9D-5EFE20F42FB7}.Release|x86.Build.0 = Release|Win32
+		{03E99A45-D9CB-4E22-BD2E-52AFA564A3CC}.Debug|x64.ActiveCfg = Debug|x64
+		{03E99A45-D9CB-4E22-BD2E-52AFA564A3CC}.Debug|x64.Build.0 = Debug|x64
+		{03E99A45-D9CB-4E22-BD2E-52AFA564A3CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{03E99A45-D9CB-4E22-BD2E-52AFA564A3CC}.Debug|x86.Build.0 = Debug|Win32
+		{03E99A45-D9CB-4E22-BD2E-52AFA564A3CC}.Release|x64.ActiveCfg = Release|x64
+		{03E99A45-D9CB-4E22-BD2E-52AFA564A3CC}.Release|x64.Build.0 = Release|x64
+		{03E99A45-D9CB-4E22-BD2E-52AFA564A3CC}.Release|x86.ActiveCfg = Release|Win32
+		{03E99A45-D9CB-4E22-BD2E-52AFA564A3CC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
