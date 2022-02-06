@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Baekjoon", "Baekjoon\Baekjo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10157 자리배정", "10157 자리배정\10157 자리배정.vcxproj", "{03E99A45-D9CB-4E22-BD2E-52AFA564A3CC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7568 덩치", "7568 덩치\7568 덩치.vcxproj", "{121ACF0F-34A0-4212-B72E-8370AF4B40F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{03E99A45-D9CB-4E22-BD2E-52AFA564A3CC}.Release|x64.Build.0 = Release|x64
 		{03E99A45-D9CB-4E22-BD2E-52AFA564A3CC}.Release|x86.ActiveCfg = Release|Win32
 		{03E99A45-D9CB-4E22-BD2E-52AFA564A3CC}.Release|x86.Build.0 = Release|Win32
+		{121ACF0F-34A0-4212-B72E-8370AF4B40F7}.Debug|x64.ActiveCfg = Debug|x64
+		{121ACF0F-34A0-4212-B72E-8370AF4B40F7}.Debug|x64.Build.0 = Debug|x64
+		{121ACF0F-34A0-4212-B72E-8370AF4B40F7}.Debug|x86.ActiveCfg = Debug|Win32
+		{121ACF0F-34A0-4212-B72E-8370AF4B40F7}.Debug|x86.Build.0 = Debug|Win32
+		{121ACF0F-34A0-4212-B72E-8370AF4B40F7}.Release|x64.ActiveCfg = Release|x64
+		{121ACF0F-34A0-4212-B72E-8370AF4B40F7}.Release|x64.Build.0 = Release|x64
+		{121ACF0F-34A0-4212-B72E-8370AF4B40F7}.Release|x86.ActiveCfg = Release|Win32
+		{121ACF0F-34A0-4212-B72E-8370AF4B40F7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
