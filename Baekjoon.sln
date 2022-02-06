@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7568 덩치", "7568 덩치\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2526 싸이클", "2526 싸이클\2526 싸이클.vcxproj", "{78B46A09-1077-4CFA-A136-42C265787A17}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2456 나는 학급회장이다", "2456 나는 학급회장이다\2456 나는 학급회장이다.vcxproj", "{A6C06658-5803-4CFE-98C6-0878E050D174}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{78B46A09-1077-4CFA-A136-42C265787A17}.Release|x64.Build.0 = Release|x64
 		{78B46A09-1077-4CFA-A136-42C265787A17}.Release|x86.ActiveCfg = Release|Win32
 		{78B46A09-1077-4CFA-A136-42C265787A17}.Release|x86.Build.0 = Release|Win32
+		{A6C06658-5803-4CFE-98C6-0878E050D174}.Debug|x64.ActiveCfg = Debug|x64
+		{A6C06658-5803-4CFE-98C6-0878E050D174}.Debug|x64.Build.0 = Debug|x64
+		{A6C06658-5803-4CFE-98C6-0878E050D174}.Debug|x86.ActiveCfg = Debug|Win32
+		{A6C06658-5803-4CFE-98C6-0878E050D174}.Debug|x86.Build.0 = Debug|Win32
+		{A6C06658-5803-4CFE-98C6-0878E050D174}.Release|x64.ActiveCfg = Release|x64
+		{A6C06658-5803-4CFE-98C6-0878E050D174}.Release|x64.Build.0 = Release|x64
+		{A6C06658-5803-4CFE-98C6-0878E050D174}.Release|x86.ActiveCfg = Release|Win32
+		{A6C06658-5803-4CFE-98C6-0878E050D174}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
