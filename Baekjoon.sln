@@ -51,6 +51,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13410 거꾸로 구구단",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17610 양팔저울", "17610 양팔저울\17610 양팔저울.vcxproj", "{3F2E1605-1642-4DED-BBA6-1B087AC2C927}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17611 직각다각형", "17611 직각다각형\17611 직각다각형.vcxproj", "{6891AD59-E0BC-4A23-8C9B-1423C6F972CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -251,6 +253,14 @@ Global
 		{3F2E1605-1642-4DED-BBA6-1B087AC2C927}.Release|x64.Build.0 = Release|x64
 		{3F2E1605-1642-4DED-BBA6-1B087AC2C927}.Release|x86.ActiveCfg = Release|Win32
 		{3F2E1605-1642-4DED-BBA6-1B087AC2C927}.Release|x86.Build.0 = Release|Win32
+		{6891AD59-E0BC-4A23-8C9B-1423C6F972CC}.Debug|x64.ActiveCfg = Debug|x64
+		{6891AD59-E0BC-4A23-8C9B-1423C6F972CC}.Debug|x64.Build.0 = Debug|x64
+		{6891AD59-E0BC-4A23-8C9B-1423C6F972CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{6891AD59-E0BC-4A23-8C9B-1423C6F972CC}.Debug|x86.Build.0 = Debug|Win32
+		{6891AD59-E0BC-4A23-8C9B-1423C6F972CC}.Release|x64.ActiveCfg = Release|x64
+		{6891AD59-E0BC-4A23-8C9B-1423C6F972CC}.Release|x64.Build.0 = Release|x64
+		{6891AD59-E0BC-4A23-8C9B-1423C6F972CC}.Release|x86.ActiveCfg = Release|Win32
+		{6891AD59-E0BC-4A23-8C9B-1423C6F972CC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
