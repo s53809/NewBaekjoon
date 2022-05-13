@@ -83,6 +83,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9012 괄호", "9012 괄호\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1018 체스판 다시 칠하기", "1018 체스판 다시 칠하기\1018 체스판 다시 칠하기.vcxproj", "{AFFCF295-33B4-4BCD-BB7B-2B233FEDD789}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1436 영화감독 숌", "1436 영화감독 숌\1436 영화감독 숌.vcxproj", "{E2F4B5D2-D41B-4A83-8A08-257E3BE008C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -411,6 +413,14 @@ Global
 		{AFFCF295-33B4-4BCD-BB7B-2B233FEDD789}.Release|x64.Build.0 = Release|x64
 		{AFFCF295-33B4-4BCD-BB7B-2B233FEDD789}.Release|x86.ActiveCfg = Release|Win32
 		{AFFCF295-33B4-4BCD-BB7B-2B233FEDD789}.Release|x86.Build.0 = Release|Win32
+		{E2F4B5D2-D41B-4A83-8A08-257E3BE008C1}.Debug|x64.ActiveCfg = Debug|x64
+		{E2F4B5D2-D41B-4A83-8A08-257E3BE008C1}.Debug|x64.Build.0 = Debug|x64
+		{E2F4B5D2-D41B-4A83-8A08-257E3BE008C1}.Debug|x86.ActiveCfg = Debug|Win32
+		{E2F4B5D2-D41B-4A83-8A08-257E3BE008C1}.Debug|x86.Build.0 = Debug|Win32
+		{E2F4B5D2-D41B-4A83-8A08-257E3BE008C1}.Release|x64.ActiveCfg = Release|x64
+		{E2F4B5D2-D41B-4A83-8A08-257E3BE008C1}.Release|x64.Build.0 = Release|x64
+		{E2F4B5D2-D41B-4A83-8A08-257E3BE008C1}.Release|x86.ActiveCfg = Release|Win32
+		{E2F4B5D2-D41B-4A83-8A08-257E3BE008C1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
