@@ -97,6 +97,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1202 보석 도둑", "1202 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10845 큐", "10845 큐\10845 큐.vcxproj", "{CC8DD229-9A7A-4D3B-A343-E71ECB221EAC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7576 토마토", "7576 토마토\7576 토마토.vcxproj", "{4A54F116-C163-4BD4-968D-A6A3B4F0A05F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -481,6 +483,14 @@ Global
 		{CC8DD229-9A7A-4D3B-A343-E71ECB221EAC}.Release|x64.Build.0 = Release|x64
 		{CC8DD229-9A7A-4D3B-A343-E71ECB221EAC}.Release|x86.ActiveCfg = Release|Win32
 		{CC8DD229-9A7A-4D3B-A343-E71ECB221EAC}.Release|x86.Build.0 = Release|Win32
+		{4A54F116-C163-4BD4-968D-A6A3B4F0A05F}.Debug|x64.ActiveCfg = Debug|x64
+		{4A54F116-C163-4BD4-968D-A6A3B4F0A05F}.Debug|x64.Build.0 = Debug|x64
+		{4A54F116-C163-4BD4-968D-A6A3B4F0A05F}.Debug|x86.ActiveCfg = Debug|Win32
+		{4A54F116-C163-4BD4-968D-A6A3B4F0A05F}.Debug|x86.Build.0 = Debug|Win32
+		{4A54F116-C163-4BD4-968D-A6A3B4F0A05F}.Release|x64.ActiveCfg = Release|x64
+		{4A54F116-C163-4BD4-968D-A6A3B4F0A05F}.Release|x64.Build.0 = Release|x64
+		{4A54F116-C163-4BD4-968D-A6A3B4F0A05F}.Release|x86.ActiveCfg = Release|Win32
+		{4A54F116-C163-4BD4-968D-A6A3B4F0A05F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
