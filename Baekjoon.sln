@@ -99,6 +99,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10845 큐", "10845 큐\1084
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7576 토마토", "7576 토마토\7576 토마토.vcxproj", "{4A54F116-C163-4BD4-968D-A6A3B4F0A05F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1208 부분수열의 합2", "1208 부분수열의 합2\1208 부분수열의 합2.vcxproj", "{BF664405-0E02-489B-AEF6-42DCA51FD666}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -491,6 +493,14 @@ Global
 		{4A54F116-C163-4BD4-968D-A6A3B4F0A05F}.Release|x64.Build.0 = Release|x64
 		{4A54F116-C163-4BD4-968D-A6A3B4F0A05F}.Release|x86.ActiveCfg = Release|Win32
 		{4A54F116-C163-4BD4-968D-A6A3B4F0A05F}.Release|x86.Build.0 = Release|Win32
+		{BF664405-0E02-489B-AEF6-42DCA51FD666}.Debug|x64.ActiveCfg = Debug|x64
+		{BF664405-0E02-489B-AEF6-42DCA51FD666}.Debug|x64.Build.0 = Debug|x64
+		{BF664405-0E02-489B-AEF6-42DCA51FD666}.Debug|x86.ActiveCfg = Debug|Win32
+		{BF664405-0E02-489B-AEF6-42DCA51FD666}.Debug|x86.Build.0 = Debug|Win32
+		{BF664405-0E02-489B-AEF6-42DCA51FD666}.Release|x64.ActiveCfg = Release|x64
+		{BF664405-0E02-489B-AEF6-42DCA51FD666}.Release|x64.Build.0 = Release|x64
+		{BF664405-0E02-489B-AEF6-42DCA51FD666}.Release|x86.ActiveCfg = Release|Win32
+		{BF664405-0E02-489B-AEF6-42DCA51FD666}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
