@@ -109,6 +109,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1107 리모컨", "1107 리�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2162 선분 그룹", "2162 선분 그룹\2162 선분 그룹.vcxproj", "{66D034F3-A2CB-402E-B694-D3319A35CC7E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1449 수리공 항승", "1449 수리공 항승\1449 수리공 항승.vcxproj", "{BF4E07F2-0B31-48C4-A7A0-D9CB554BABAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -541,6 +543,14 @@ Global
 		{66D034F3-A2CB-402E-B694-D3319A35CC7E}.Release|x64.Build.0 = Release|x64
 		{66D034F3-A2CB-402E-B694-D3319A35CC7E}.Release|x86.ActiveCfg = Release|Win32
 		{66D034F3-A2CB-402E-B694-D3319A35CC7E}.Release|x86.Build.0 = Release|Win32
+		{BF4E07F2-0B31-48C4-A7A0-D9CB554BABAD}.Debug|x64.ActiveCfg = Debug|x64
+		{BF4E07F2-0B31-48C4-A7A0-D9CB554BABAD}.Debug|x64.Build.0 = Debug|x64
+		{BF4E07F2-0B31-48C4-A7A0-D9CB554BABAD}.Debug|x86.ActiveCfg = Debug|Win32
+		{BF4E07F2-0B31-48C4-A7A0-D9CB554BABAD}.Debug|x86.Build.0 = Debug|Win32
+		{BF4E07F2-0B31-48C4-A7A0-D9CB554BABAD}.Release|x64.ActiveCfg = Release|x64
+		{BF4E07F2-0B31-48C4-A7A0-D9CB554BABAD}.Release|x64.Build.0 = Release|x64
+		{BF4E07F2-0B31-48C4-A7A0-D9CB554BABAD}.Release|x86.ActiveCfg = Release|Win32
+		{BF4E07F2-0B31-48C4-A7A0-D9CB554BABAD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
