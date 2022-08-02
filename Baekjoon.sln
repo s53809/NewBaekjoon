@@ -145,6 +145,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10773 제로", "10773 제�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1158 요세푸스 문제", "1158 요세푸스 문제\1158 요세푸스 문제.vcxproj", "{364D2573-705F-4F59-91EF-20F33913B1F2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2164 카드2", "2164 카드2\2164 카드2.vcxproj", "{F4DD7D50-7E50-4895-B67E-35FF46F9B9AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -721,6 +723,14 @@ Global
 		{364D2573-705F-4F59-91EF-20F33913B1F2}.Release|x64.Build.0 = Release|x64
 		{364D2573-705F-4F59-91EF-20F33913B1F2}.Release|x86.ActiveCfg = Release|Win32
 		{364D2573-705F-4F59-91EF-20F33913B1F2}.Release|x86.Build.0 = Release|Win32
+		{F4DD7D50-7E50-4895-B67E-35FF46F9B9AF}.Debug|x64.ActiveCfg = Debug|x64
+		{F4DD7D50-7E50-4895-B67E-35FF46F9B9AF}.Debug|x64.Build.0 = Debug|x64
+		{F4DD7D50-7E50-4895-B67E-35FF46F9B9AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{F4DD7D50-7E50-4895-B67E-35FF46F9B9AF}.Debug|x86.Build.0 = Debug|Win32
+		{F4DD7D50-7E50-4895-B67E-35FF46F9B9AF}.Release|x64.ActiveCfg = Release|x64
+		{F4DD7D50-7E50-4895-B67E-35FF46F9B9AF}.Release|x64.Build.0 = Release|x64
+		{F4DD7D50-7E50-4895-B67E-35FF46F9B9AF}.Release|x86.ActiveCfg = Release|Win32
+		{F4DD7D50-7E50-4895-B67E-35FF46F9B9AF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
