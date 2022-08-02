@@ -34,8 +34,4 @@ int main() {
 		}
 		st.push(make_pair(x[i], i + 1));
 	}
-	/*
-	5
-	6 9 5 7 4
-	*/
 }
