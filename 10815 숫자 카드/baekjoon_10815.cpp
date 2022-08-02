@@ -25,7 +25,7 @@ int main() {
 	}
 
 	sort(x.begin(), x.end());
-
+	
 	for (int i = 0; i < M; i++) {
 		if (binary_search(x.begin(), x.end(), y[i])) {
 			cout << "1 ";
