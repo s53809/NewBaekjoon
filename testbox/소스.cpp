@@ -1,42 +1,58 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-int a = 0;
-int b = 0;
-int c = 0;
+
+int arr[50];
+int a, b, c = 0;
+int d = 1;
+int e = 0;
+int t = 0;
+int q = 0;
+
 int main() {
 	cin >> a;
-	cin >> b;
 
-
-	c = (a / 100) * 100;
-
-	if (c % b == 0)
-	{
-		cout << "00";
+	for (int i = 0; i < a; i++) {
+		cin >> arr[i];
+	}
+	if (a == 1) {
+		cout << 0;
 		return 0;
 	}
-	else {
-		for (int i = 1; i < 100; i++) {
+	for (q = 1; q < a; q++) {
+		if (arr[0] > arr[q]) {
 
-			c += i;
-
-			if (c % b == 0)
-			{
-				if (i < 10) {
-					printf("0%d", c);
-					return 0;
-				}
-				else {
-					cout << i;
-					return 0;
-				}
-			}
-			c -= i;
+			b++;
 		}
-
+	}
+	if (b == q - 1) {
+		cout << 0;
+		return 0;
 	}
 
+	while (true) {
+		b = 0;
+		for (int y = 1; y < a; y++)
+		{
+			if (arr[d] <= arr[y])
+			{
+				d = y;
+			}
+		}
+		for (t = 1; t < a; t++) {
+			if (arr[0] > arr[t]) {
 
-
+				b++;
+			}
+		}
+		if (b == t - 1) {
+			cout << e;
+			return  0;
+		}
+		else {
+			arr[d] = arr[d] - 1;
+			arr[0] = arr[0] + 1;
+			e++;
+		}
+	}
 
 }
