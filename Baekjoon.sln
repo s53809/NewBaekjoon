@@ -173,6 +173,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1007 벡터 매칭", "1007 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11726 2xn 타일링", "11726 2xn 타일링\11726 2xn 타일링.vcxproj", "{CC2FABD0-B80C-4EF9-BA54-A4DB92EFD96F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1149 RGB 거리", "1149 RGB 거리\1149 RGB 거리.vcxproj", "{3D021A51-D591-4699-BE54-4B1E450441D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -861,6 +863,14 @@ Global
 		{CC2FABD0-B80C-4EF9-BA54-A4DB92EFD96F}.Release|x64.Build.0 = Release|x64
 		{CC2FABD0-B80C-4EF9-BA54-A4DB92EFD96F}.Release|x86.ActiveCfg = Release|Win32
 		{CC2FABD0-B80C-4EF9-BA54-A4DB92EFD96F}.Release|x86.Build.0 = Release|Win32
+		{3D021A51-D591-4699-BE54-4B1E450441D8}.Debug|x64.ActiveCfg = Debug|x64
+		{3D021A51-D591-4699-BE54-4B1E450441D8}.Debug|x64.Build.0 = Debug|x64
+		{3D021A51-D591-4699-BE54-4B1E450441D8}.Debug|x86.ActiveCfg = Debug|Win32
+		{3D021A51-D591-4699-BE54-4B1E450441D8}.Debug|x86.Build.0 = Debug|Win32
+		{3D021A51-D591-4699-BE54-4B1E450441D8}.Release|x64.ActiveCfg = Release|x64
+		{3D021A51-D591-4699-BE54-4B1E450441D8}.Release|x64.Build.0 = Release|x64
+		{3D021A51-D591-4699-BE54-4B1E450441D8}.Release|x86.ActiveCfg = Release|Win32
+		{3D021A51-D591-4699-BE54-4B1E450441D8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
