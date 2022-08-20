@@ -177,6 +177,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1149 RGB 거리", "1149 RGB
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2579 계단 오르기", "2579 계단 오르기\2579 계단 오르기.vcxproj", "{3E0A9A77-A850-435F-A0AB-966D053CB781}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1912 연속합", "1912 연속합\1912 연속합.vcxproj", "{1488E80E-AF02-496C-8343-85EA6D45DF73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -881,6 +883,14 @@ Global
 		{3E0A9A77-A850-435F-A0AB-966D053CB781}.Release|x64.Build.0 = Release|x64
 		{3E0A9A77-A850-435F-A0AB-966D053CB781}.Release|x86.ActiveCfg = Release|Win32
 		{3E0A9A77-A850-435F-A0AB-966D053CB781}.Release|x86.Build.0 = Release|Win32
+		{1488E80E-AF02-496C-8343-85EA6D45DF73}.Debug|x64.ActiveCfg = Debug|x64
+		{1488E80E-AF02-496C-8343-85EA6D45DF73}.Debug|x64.Build.0 = Debug|x64
+		{1488E80E-AF02-496C-8343-85EA6D45DF73}.Debug|x86.ActiveCfg = Debug|Win32
+		{1488E80E-AF02-496C-8343-85EA6D45DF73}.Debug|x86.Build.0 = Debug|Win32
+		{1488E80E-AF02-496C-8343-85EA6D45DF73}.Release|x64.ActiveCfg = Release|x64
+		{1488E80E-AF02-496C-8343-85EA6D45DF73}.Release|x64.Build.0 = Release|x64
+		{1488E80E-AF02-496C-8343-85EA6D45DF73}.Release|x86.ActiveCfg = Release|Win32
+		{1488E80E-AF02-496C-8343-85EA6D45DF73}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
