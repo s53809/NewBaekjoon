@@ -185,6 +185,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11727 2 x n 타일링 2", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2193 이친수", "2193 이친수\2193 이친수.vcxproj", "{EE3C0049-1A48-4A45-9AB2-F29C56CB5EAD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1010 다리놓기", "1010 다리놓기\1010 다리놓기.vcxproj", "{A8FC6385-6ABC-41DA-9A96-4B0AC2005186}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -921,6 +923,14 @@ Global
 		{EE3C0049-1A48-4A45-9AB2-F29C56CB5EAD}.Release|x64.Build.0 = Release|x64
 		{EE3C0049-1A48-4A45-9AB2-F29C56CB5EAD}.Release|x86.ActiveCfg = Release|Win32
 		{EE3C0049-1A48-4A45-9AB2-F29C56CB5EAD}.Release|x86.Build.0 = Release|Win32
+		{A8FC6385-6ABC-41DA-9A96-4B0AC2005186}.Debug|x64.ActiveCfg = Debug|x64
+		{A8FC6385-6ABC-41DA-9A96-4B0AC2005186}.Debug|x64.Build.0 = Debug|x64
+		{A8FC6385-6ABC-41DA-9A96-4B0AC2005186}.Debug|x86.ActiveCfg = Debug|Win32
+		{A8FC6385-6ABC-41DA-9A96-4B0AC2005186}.Debug|x86.Build.0 = Debug|Win32
+		{A8FC6385-6ABC-41DA-9A96-4B0AC2005186}.Release|x64.ActiveCfg = Release|x64
+		{A8FC6385-6ABC-41DA-9A96-4B0AC2005186}.Release|x64.Build.0 = Release|x64
+		{A8FC6385-6ABC-41DA-9A96-4B0AC2005186}.Release|x86.ActiveCfg = Release|Win32
+		{A8FC6385-6ABC-41DA-9A96-4B0AC2005186}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
