@@ -181,6 +181,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1912 연속합", "1912 연�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2156 포도주 시식", "2156 포도주 시식\2156 포도주 시식.vcxproj", "{24DA0DFC-181A-4391-9BDD-70693D98B5F1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11727 2 x n 타일링 2", "11727 2 x n 타일링 2\11727 2 x n 타일링 2.vcxproj", "{1CC168FE-6C0F-4547-B265-A7950C7C1F80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -901,6 +903,14 @@ Global
 		{24DA0DFC-181A-4391-9BDD-70693D98B5F1}.Release|x64.Build.0 = Release|x64
 		{24DA0DFC-181A-4391-9BDD-70693D98B5F1}.Release|x86.ActiveCfg = Release|Win32
 		{24DA0DFC-181A-4391-9BDD-70693D98B5F1}.Release|x86.Build.0 = Release|Win32
+		{1CC168FE-6C0F-4547-B265-A7950C7C1F80}.Debug|x64.ActiveCfg = Debug|x64
+		{1CC168FE-6C0F-4547-B265-A7950C7C1F80}.Debug|x64.Build.0 = Debug|x64
+		{1CC168FE-6C0F-4547-B265-A7950C7C1F80}.Debug|x86.ActiveCfg = Debug|Win32
+		{1CC168FE-6C0F-4547-B265-A7950C7C1F80}.Debug|x86.Build.0 = Debug|Win32
+		{1CC168FE-6C0F-4547-B265-A7950C7C1F80}.Release|x64.ActiveCfg = Release|x64
+		{1CC168FE-6C0F-4547-B265-A7950C7C1F80}.Release|x64.Build.0 = Release|x64
+		{1CC168FE-6C0F-4547-B265-A7950C7C1F80}.Release|x86.ActiveCfg = Release|Win32
+		{1CC168FE-6C0F-4547-B265-A7950C7C1F80}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
