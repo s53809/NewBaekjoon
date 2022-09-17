@@ -1,58 +1,23 @@
 #include <iostream>
+#include <cstdio>
 using namespace std;
 
-int arr[50];
-int a, b, c = 0;
-int d = 1;
-int e = 0;
-int t = 0;
-int q = 0;
-
 int main() {
-	cin >> a;
-
-	for (int i = 0; i < a; i++) {
-		cin >> arr[i];
-	}
-	if (a == 1) {
-		cout << 0;
-		return 0;
-	}
-	for (q = 1; q < a; q++) {
-		if (arr[0] > arr[q]) {
-
-			b++;
+	int x[] = { 0x20, 0x5e, 0x7b, 0xd2, 0x59, 0xb1, 0x34, 0x72, 0x1b, 0x69, 0x61, 0x3c, 0x11, 0x35, 0x65, 0x80, 0x9, 0x9d, 0x9, 0x3d, 0x22, 0x7b, 0x1, 0x9d, 0x59, 0xaa, 0x2, 0x6a, 0x53, 0xa7, 0xb, 0xcd, 0x25, 0xdf, 0x1, 0x9c };
+	int y[] = { 0x24, 0x16, 0x1, 0xb1, 0xd, 0x4d, 0x1, 0x13, 0x1c, 0x32, 0x1, 0xc, 0x20, 0x2, 0x1, 0xe1, 0x2d, 0x6c, 0x6, 0x59, 0x11, 0x17, 0x35, 0xfe, 0xa, 0x7a, 0x32, 0xe, 0x13, 0x6f, 0x5, 0xae, 0xc, 0x7a, 0x61, 0xe1 };
+	
+	for (int i = 0; i < 36; i++) {
+		if (i % 4 == 0) {
+			printf("%c", x[i] + y[i]);
+		}
+		if (i % 4 == 1) {
+			printf("%c", x[i] - y[i]);
+		}
+		if (i % 4 == 2) {
+			printf("%c", x[i] * y[i]);
+		}
+		if (i % 4 == 3) {
+			printf("%c", x[i] ^ y[i]);
 		}
 	}
-	if (b == q - 1) {
-		cout << 0;
-		return 0;
-	}
-
-	while (true) {
-		b = 0;
-		for (int y = 1; y < a; y++)
-		{
-			if (arr[d] <= arr[y])
-			{
-				d = y;
-			}
-		}
-		for (t = 1; t < a; t++) {
-			if (arr[0] > arr[t]) {
-
-				b++;
-			}
-		}
-		if (b == t - 1) {
-			cout << e;
-			return  0;
-		}
-		else {
-			arr[d] = arr[d] - 1;
-			arr[0] = arr[0] + 1;
-			e++;
-		}
-	}
-
 }

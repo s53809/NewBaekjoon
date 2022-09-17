@@ -197,6 +197,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1890 점프", "1890 점프\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17069 파이프 옮기기 2", "17069 파이프 옮기기 2\17069 파이프 옮기기 2.vcxproj", "{04D470CE-AD5C-404D-A8FF-D08112AA963C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2225 합분해", "2225 합분해\2225 합분해.vcxproj", "{8630F71A-4AF7-469F-89C2-4291BB3F2A28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -981,6 +983,14 @@ Global
 		{04D470CE-AD5C-404D-A8FF-D08112AA963C}.Release|x64.Build.0 = Release|x64
 		{04D470CE-AD5C-404D-A8FF-D08112AA963C}.Release|x86.ActiveCfg = Release|Win32
 		{04D470CE-AD5C-404D-A8FF-D08112AA963C}.Release|x86.Build.0 = Release|Win32
+		{8630F71A-4AF7-469F-89C2-4291BB3F2A28}.Debug|x64.ActiveCfg = Debug|x64
+		{8630F71A-4AF7-469F-89C2-4291BB3F2A28}.Debug|x64.Build.0 = Debug|x64
+		{8630F71A-4AF7-469F-89C2-4291BB3F2A28}.Debug|x86.ActiveCfg = Debug|Win32
+		{8630F71A-4AF7-469F-89C2-4291BB3F2A28}.Debug|x86.Build.0 = Debug|Win32
+		{8630F71A-4AF7-469F-89C2-4291BB3F2A28}.Release|x64.ActiveCfg = Release|x64
+		{8630F71A-4AF7-469F-89C2-4291BB3F2A28}.Release|x64.Build.0 = Release|x64
+		{8630F71A-4AF7-469F-89C2-4291BB3F2A28}.Release|x86.ActiveCfg = Release|Win32
+		{8630F71A-4AF7-469F-89C2-4291BB3F2A28}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
