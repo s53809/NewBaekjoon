@@ -205,6 +205,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2527 직사각형", "2527 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestBox2", "TestBox2\TestBox2.vcxproj", "{EF32A533-2C61-47BC-8C6B-E8B181B91112}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2457 공주님의 정원", "2457 공주님의 정원\2457 공주님의 정원.vcxproj", "{E8EBC93B-6792-40F5-BABF-01E64E5581BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1021,6 +1023,14 @@ Global
 		{EF32A533-2C61-47BC-8C6B-E8B181B91112}.Release|x64.Build.0 = Release|x64
 		{EF32A533-2C61-47BC-8C6B-E8B181B91112}.Release|x86.ActiveCfg = Release|Win32
 		{EF32A533-2C61-47BC-8C6B-E8B181B91112}.Release|x86.Build.0 = Release|Win32
+		{E8EBC93B-6792-40F5-BABF-01E64E5581BA}.Debug|x64.ActiveCfg = Debug|x64
+		{E8EBC93B-6792-40F5-BABF-01E64E5581BA}.Debug|x64.Build.0 = Debug|x64
+		{E8EBC93B-6792-40F5-BABF-01E64E5581BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{E8EBC93B-6792-40F5-BABF-01E64E5581BA}.Debug|x86.Build.0 = Debug|Win32
+		{E8EBC93B-6792-40F5-BABF-01E64E5581BA}.Release|x64.ActiveCfg = Release|x64
+		{E8EBC93B-6792-40F5-BABF-01E64E5581BA}.Release|x64.Build.0 = Release|x64
+		{E8EBC93B-6792-40F5-BABF-01E64E5581BA}.Release|x86.ActiveCfg = Release|Win32
+		{E8EBC93B-6792-40F5-BABF-01E64E5581BA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
