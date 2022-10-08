@@ -209,6 +209,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2457 공주님의 정원", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2477 참외밭", "2477 참외밭\2477 참외밭.vcxproj", "{DB0023DB-EDAF-48B0-806D-F2DDF2A3835D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2564 경비원", "2564 경비원\2564 경비원.vcxproj", "{BC2019F2-C81A-4B98-BD02-3E6C563F5E39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1041,6 +1043,14 @@ Global
 		{DB0023DB-EDAF-48B0-806D-F2DDF2A3835D}.Release|x64.Build.0 = Release|x64
 		{DB0023DB-EDAF-48B0-806D-F2DDF2A3835D}.Release|x86.ActiveCfg = Release|Win32
 		{DB0023DB-EDAF-48B0-806D-F2DDF2A3835D}.Release|x86.Build.0 = Release|Win32
+		{BC2019F2-C81A-4B98-BD02-3E6C563F5E39}.Debug|x64.ActiveCfg = Debug|x64
+		{BC2019F2-C81A-4B98-BD02-3E6C563F5E39}.Debug|x64.Build.0 = Debug|x64
+		{BC2019F2-C81A-4B98-BD02-3E6C563F5E39}.Debug|x86.ActiveCfg = Debug|Win32
+		{BC2019F2-C81A-4B98-BD02-3E6C563F5E39}.Debug|x86.Build.0 = Debug|Win32
+		{BC2019F2-C81A-4B98-BD02-3E6C563F5E39}.Release|x64.ActiveCfg = Release|x64
+		{BC2019F2-C81A-4B98-BD02-3E6C563F5E39}.Release|x64.Build.0 = Release|x64
+		{BC2019F2-C81A-4B98-BD02-3E6C563F5E39}.Release|x86.ActiveCfg = Release|Win32
+		{BC2019F2-C81A-4B98-BD02-3E6C563F5E39}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
