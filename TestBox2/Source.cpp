@@ -1,11 +1,16 @@
-#include <iostream>
+#include<iostream>
+#include<string.h>
 using namespace std;
-
+string a;
+int c = 1;
+void large(string a) {
+	string b = "0";
+	for (int i = 0, a_size = a.size(); i < a_size; i++) {
+		
+	}
+}
 int main() {
-	ios::sync_with_stdio(false);
-	cin.tie(0);
-	cout.tie(0);
+	cin >> a;
+	large(a);
 
-	float box = (float)(0 - 0) / (0 - 1);
-	cout << box;
 }
