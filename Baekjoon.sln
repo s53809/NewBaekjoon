@@ -223,6 +223,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2531 회전초밥", "2531 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2496 금강석", "2496 금강석\2496 금강석.vcxproj", "{CE83B843-0F3B-4272-92CE-18DD3F185E2C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15624 피보나치 수 7", "15624 피보나치 수 7\15624 피보나치 수 7.vcxproj", "{6B884060-5A4F-4684-BC16-6D7B509ACB42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1111,6 +1113,14 @@ Global
 		{CE83B843-0F3B-4272-92CE-18DD3F185E2C}.Release|x64.Build.0 = Release|x64
 		{CE83B843-0F3B-4272-92CE-18DD3F185E2C}.Release|x86.ActiveCfg = Release|Win32
 		{CE83B843-0F3B-4272-92CE-18DD3F185E2C}.Release|x86.Build.0 = Release|Win32
+		{6B884060-5A4F-4684-BC16-6D7B509ACB42}.Debug|x64.ActiveCfg = Debug|x64
+		{6B884060-5A4F-4684-BC16-6D7B509ACB42}.Debug|x64.Build.0 = Debug|x64
+		{6B884060-5A4F-4684-BC16-6D7B509ACB42}.Debug|x86.ActiveCfg = Debug|Win32
+		{6B884060-5A4F-4684-BC16-6D7B509ACB42}.Debug|x86.Build.0 = Debug|Win32
+		{6B884060-5A4F-4684-BC16-6D7B509ACB42}.Release|x64.ActiveCfg = Release|x64
+		{6B884060-5A4F-4684-BC16-6D7B509ACB42}.Release|x64.Build.0 = Release|x64
+		{6B884060-5A4F-4684-BC16-6D7B509ACB42}.Release|x86.ActiveCfg = Release|Win32
+		{6B884060-5A4F-4684-BC16-6D7B509ACB42}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
