@@ -263,6 +263,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ICPC_Sinchon_A", "ICPC_Sinc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ICPC_Shnchon_B", "ICPC_Shnchon_B\ICPC_Shnchon_B.vcxproj", "{D3AA4AF6-CC8C-4C9C-8369-44FAFD58AC69}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ICPC_Sinchon_C", "2023_ICPC_Problem_C\2023_ICPC_Problem_C.vcxproj", "{2D6ADBF2-A0FA-4D17-86C4-8BF044F8D55C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1311,6 +1313,14 @@ Global
 		{D3AA4AF6-CC8C-4C9C-8369-44FAFD58AC69}.Release|x64.Build.0 = Release|x64
 		{D3AA4AF6-CC8C-4C9C-8369-44FAFD58AC69}.Release|x86.ActiveCfg = Release|Win32
 		{D3AA4AF6-CC8C-4C9C-8369-44FAFD58AC69}.Release|x86.Build.0 = Release|Win32
+		{2D6ADBF2-A0FA-4D17-86C4-8BF044F8D55C}.Debug|x64.ActiveCfg = Debug|x64
+		{2D6ADBF2-A0FA-4D17-86C4-8BF044F8D55C}.Debug|x64.Build.0 = Debug|x64
+		{2D6ADBF2-A0FA-4D17-86C4-8BF044F8D55C}.Debug|x86.ActiveCfg = Debug|Win32
+		{2D6ADBF2-A0FA-4D17-86C4-8BF044F8D55C}.Debug|x86.Build.0 = Debug|Win32
+		{2D6ADBF2-A0FA-4D17-86C4-8BF044F8D55C}.Release|x64.ActiveCfg = Release|x64
+		{2D6ADBF2-A0FA-4D17-86C4-8BF044F8D55C}.Release|x64.Build.0 = Release|x64
+		{2D6ADBF2-A0FA-4D17-86C4-8BF044F8D55C}.Release|x86.ActiveCfg = Release|Win32
+		{2D6ADBF2-A0FA-4D17-86C4-8BF044F8D55C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
