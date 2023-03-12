@@ -1,34 +1,34 @@
-#include<iostream>
+#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
+#define all(v) v.begin(), v.end()
+#define compress(v) sort(all(v)), v.erase(unique(all(v)), v.end())
 using namespace std;
-int a;
-int c;
-int b = 0;
-int fac(int fa) {
-	if (fa == 1) {
-		while (true)
-		{
-			if (c % 10 != 0) {
-				cout << b;
-				return 0;
-			}
-			else {
-				c = c / 10;
-				b++;
-			}
-		}
-	}
-	fa = fa - 1;
-	c = c * fa;
 
-	return fac(fa);
-}
+
 int main() {
-	cin >> a;
-	c = a;
-	if (a == 0) {
-		cout << '0';
-		return 0;
+	ios::sync_with_stdio(false);
+	cin.tie(0);
+	cout.tie(0);
+	
+	vector<int> x;
+	x.push_back(0);
+	x.push_back(5);
+	x.push_back(6);
+	x.push_back(3);
+	x.push_back(9);
+	x.push_back(2);
+	x.push_back(2);
+
+	for (int i = 0; i < x.size(); i++) {
+		cout << x[i] << ' ';
 	}
-	fac(a);
-	return 0;
+	cout << '\n';
+
+	compress(x);
+
+	for (int i = 0; i < x.size(); i++) {
+		cout << x[i] << ' ';
+	}
 }
