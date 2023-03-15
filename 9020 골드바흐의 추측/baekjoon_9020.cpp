@@ -33,10 +33,6 @@ int main() {
 			if (primaryNum[i] == 0) primaryNum.erase(primaryNum.begin() + i);
 		}
 
-		for (int i = 0; i < primaryNum.size(); i++) {
-			cout << primaryNum[i] << ' ';
-		}
-
 		pair<int, int> plus = make_pair(-1, -1);
 
 		for (int i = 0, pri_size = primaryNum.size(); i < pri_size; i++) {
