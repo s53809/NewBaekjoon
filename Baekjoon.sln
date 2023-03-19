@@ -377,6 +377,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4948 베르트랑 공준", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17103 골드바흐 파티션", "17103 골드바흐 파티션\17103 골드바흐 파티션.vcxproj", "{3DCC5460-0492-409F-98C9-776581DE2263}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2532 먹이사슬", "2532 먹이사슬\2532 먹이사슬.vcxproj", "{1DFFAEA1-D8C0-4710-91A7-CE14CAD839D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1881,6 +1883,14 @@ Global
 		{3DCC5460-0492-409F-98C9-776581DE2263}.Release|x64.Build.0 = Release|x64
 		{3DCC5460-0492-409F-98C9-776581DE2263}.Release|x86.ActiveCfg = Release|Win32
 		{3DCC5460-0492-409F-98C9-776581DE2263}.Release|x86.Build.0 = Release|Win32
+		{1DFFAEA1-D8C0-4710-91A7-CE14CAD839D2}.Debug|x64.ActiveCfg = Debug|x64
+		{1DFFAEA1-D8C0-4710-91A7-CE14CAD839D2}.Debug|x64.Build.0 = Debug|x64
+		{1DFFAEA1-D8C0-4710-91A7-CE14CAD839D2}.Debug|x86.ActiveCfg = Debug|Win32
+		{1DFFAEA1-D8C0-4710-91A7-CE14CAD839D2}.Debug|x86.Build.0 = Debug|Win32
+		{1DFFAEA1-D8C0-4710-91A7-CE14CAD839D2}.Release|x64.ActiveCfg = Release|x64
+		{1DFFAEA1-D8C0-4710-91A7-CE14CAD839D2}.Release|x64.Build.0 = Release|x64
+		{1DFFAEA1-D8C0-4710-91A7-CE14CAD839D2}.Release|x86.ActiveCfg = Release|Win32
+		{1DFFAEA1-D8C0-4710-91A7-CE14CAD839D2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
