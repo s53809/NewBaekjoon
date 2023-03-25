@@ -1,35 +1,25 @@
-#include <stdio.h>
-#include <math.h>
+#include <iostream>
+#include <vector>
+using namespace std;
 
-int main()
-{
-	int i = 0, j, b = 0, c = 0, q, l, num, fin = 0;
-	int a[100] = {};
-	int k[100] = {};
-	int r[100] = {};
-	scanf("%d", &num);
-	for (i = 0; i < num; i++)
-	{
-		scanf("%d %d %d", &r[i], &k[i], &a[i]);
+int main() {
+	ios::sync_with_stdio(false);
+	cin.tie(0);
+	cout.tie(0);
+
+	int N;
+	cin >> N;
+	vector<int> x(N);
+
+	for (int i = 0; i < 10; i++) {
+		cin >> x[i];
 	}
 
-	for (i = 0; i < num; i++)
-	{
-
-		b = a[i] % r[i];
-		if (b == 0)
-		{
-			b = r[i];
+	int ans = 0;
+	for (int i = 0; i < 10; i++) {
+		if (x[i] == N) {
+			cout << "answer is " << i << '\n';
+			break;
 		}
-
-		c = a[i] / r[i];
-		if (a[i] % r[i] != 0) {
-			c += 1;
-		}
-
-		printf("%d\n", b * 100 + c);
 	}
-
-
-	return 0;
 }
