@@ -407,6 +407,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UDPC_Problem_B", "UDPC_Prob
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15829 Hashing", "15829 Hashing\15829 Hashing.vcxproj", "{E0C8FBE1-8AAD-4AF4-85D7-09AD6F16C68C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18111 마인크래프트", "18111 마인크래프트\18111 마인크래프트.vcxproj", "{864663F3-7081-49F0-89D8-6E96E85BEBF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2031,6 +2033,14 @@ Global
 		{E0C8FBE1-8AAD-4AF4-85D7-09AD6F16C68C}.Release|x64.Build.0 = Release|x64
 		{E0C8FBE1-8AAD-4AF4-85D7-09AD6F16C68C}.Release|x86.ActiveCfg = Release|Win32
 		{E0C8FBE1-8AAD-4AF4-85D7-09AD6F16C68C}.Release|x86.Build.0 = Release|Win32
+		{864663F3-7081-49F0-89D8-6E96E85BEBF0}.Debug|x64.ActiveCfg = Debug|x64
+		{864663F3-7081-49F0-89D8-6E96E85BEBF0}.Debug|x64.Build.0 = Debug|x64
+		{864663F3-7081-49F0-89D8-6E96E85BEBF0}.Debug|x86.ActiveCfg = Debug|Win32
+		{864663F3-7081-49F0-89D8-6E96E85BEBF0}.Debug|x86.Build.0 = Debug|Win32
+		{864663F3-7081-49F0-89D8-6E96E85BEBF0}.Release|x64.ActiveCfg = Release|x64
+		{864663F3-7081-49F0-89D8-6E96E85BEBF0}.Release|x64.Build.0 = Release|x64
+		{864663F3-7081-49F0-89D8-6E96E85BEBF0}.Release|x86.ActiveCfg = Release|Win32
+		{864663F3-7081-49F0-89D8-6E96E85BEBF0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
