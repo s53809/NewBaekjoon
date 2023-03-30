@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{94d6169d-aa75-4eec-b621-691e3fb55f1b}</ProjectGuid>
-    <RootNamespace>My3085사탕게임</RootNamespace>
+    <ProjectGuid>{0ec99851-a515-4e1a-b354-fbd90eee3e1a}</ProjectGuid>
+    <RootNamespace>My2231분해합</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="baekjoon_3085.cpp" />
+    <ClCompile Include="baekjoon_2231.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
