@@ -451,6 +451,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1992 쿼드트리", "1992 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2630 색종이 만들기", "2630 색종이 만들기\2630 색종이 만들기.vcxproj", "{29F03D80-68B8-4ACE-9757-A38A879B573A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5430 AC", "5430 AC\5430 AC.vcxproj", "{97A0EAD6-2D13-4C30-AD34-FBA6F5C5FDCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2251,6 +2253,14 @@ Global
 		{29F03D80-68B8-4ACE-9757-A38A879B573A}.Release|x64.Build.0 = Release|x64
 		{29F03D80-68B8-4ACE-9757-A38A879B573A}.Release|x86.ActiveCfg = Release|Win32
 		{29F03D80-68B8-4ACE-9757-A38A879B573A}.Release|x86.Build.0 = Release|Win32
+		{97A0EAD6-2D13-4C30-AD34-FBA6F5C5FDCE}.Debug|x64.ActiveCfg = Debug|x64
+		{97A0EAD6-2D13-4C30-AD34-FBA6F5C5FDCE}.Debug|x64.Build.0 = Debug|x64
+		{97A0EAD6-2D13-4C30-AD34-FBA6F5C5FDCE}.Debug|x86.ActiveCfg = Debug|Win32
+		{97A0EAD6-2D13-4C30-AD34-FBA6F5C5FDCE}.Debug|x86.Build.0 = Debug|Win32
+		{97A0EAD6-2D13-4C30-AD34-FBA6F5C5FDCE}.Release|x64.ActiveCfg = Release|x64
+		{97A0EAD6-2D13-4C30-AD34-FBA6F5C5FDCE}.Release|x64.Build.0 = Release|x64
+		{97A0EAD6-2D13-4C30-AD34-FBA6F5C5FDCE}.Release|x86.ActiveCfg = Release|Win32
+		{97A0EAD6-2D13-4C30-AD34-FBA6F5C5FDCE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
