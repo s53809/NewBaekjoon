@@ -439,6 +439,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7490 0 만들기", "7490 0 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1389 케빈 베이컨의 6단계 법칙", "1389 케빈 베이컨의 6단계 법칙\1389 케빈 베이컨의 6단계 법칙.vcxproj", "{42F40BEA-5C84-4314-A60D-05429E521597}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1541 잃어버린 괄호", "1541 잃어버린 괄호\1541 잃어버린 괄호.vcxproj", "{D2D74BE3-A7CD-447D-A7B0-2E80D8A900A1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1676 팩토리얼 0의 갯수", "1676 팩토리얼 0의 갯수\1676 팩토리얼 0의 갯수.vcxproj", "{DAC1104D-15EC-428B-9AB7-F4A08FD46EA2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1697 숨바꼭질", "1697 숨바꼭질\1697 숨바꼭질.vcxproj", "{1F1A6AA7-0695-4975-B529-02FEBEBAE67F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2191,6 +2197,30 @@ Global
 		{42F40BEA-5C84-4314-A60D-05429E521597}.Release|x64.Build.0 = Release|x64
 		{42F40BEA-5C84-4314-A60D-05429E521597}.Release|x86.ActiveCfg = Release|Win32
 		{42F40BEA-5C84-4314-A60D-05429E521597}.Release|x86.Build.0 = Release|Win32
+		{D2D74BE3-A7CD-447D-A7B0-2E80D8A900A1}.Debug|x64.ActiveCfg = Debug|x64
+		{D2D74BE3-A7CD-447D-A7B0-2E80D8A900A1}.Debug|x64.Build.0 = Debug|x64
+		{D2D74BE3-A7CD-447D-A7B0-2E80D8A900A1}.Debug|x86.ActiveCfg = Debug|Win32
+		{D2D74BE3-A7CD-447D-A7B0-2E80D8A900A1}.Debug|x86.Build.0 = Debug|Win32
+		{D2D74BE3-A7CD-447D-A7B0-2E80D8A900A1}.Release|x64.ActiveCfg = Release|x64
+		{D2D74BE3-A7CD-447D-A7B0-2E80D8A900A1}.Release|x64.Build.0 = Release|x64
+		{D2D74BE3-A7CD-447D-A7B0-2E80D8A900A1}.Release|x86.ActiveCfg = Release|Win32
+		{D2D74BE3-A7CD-447D-A7B0-2E80D8A900A1}.Release|x86.Build.0 = Release|Win32
+		{DAC1104D-15EC-428B-9AB7-F4A08FD46EA2}.Debug|x64.ActiveCfg = Debug|x64
+		{DAC1104D-15EC-428B-9AB7-F4A08FD46EA2}.Debug|x64.Build.0 = Debug|x64
+		{DAC1104D-15EC-428B-9AB7-F4A08FD46EA2}.Debug|x86.ActiveCfg = Debug|Win32
+		{DAC1104D-15EC-428B-9AB7-F4A08FD46EA2}.Debug|x86.Build.0 = Debug|Win32
+		{DAC1104D-15EC-428B-9AB7-F4A08FD46EA2}.Release|x64.ActiveCfg = Release|x64
+		{DAC1104D-15EC-428B-9AB7-F4A08FD46EA2}.Release|x64.Build.0 = Release|x64
+		{DAC1104D-15EC-428B-9AB7-F4A08FD46EA2}.Release|x86.ActiveCfg = Release|Win32
+		{DAC1104D-15EC-428B-9AB7-F4A08FD46EA2}.Release|x86.Build.0 = Release|Win32
+		{1F1A6AA7-0695-4975-B529-02FEBEBAE67F}.Debug|x64.ActiveCfg = Debug|x64
+		{1F1A6AA7-0695-4975-B529-02FEBEBAE67F}.Debug|x64.Build.0 = Debug|x64
+		{1F1A6AA7-0695-4975-B529-02FEBEBAE67F}.Debug|x86.ActiveCfg = Debug|Win32
+		{1F1A6AA7-0695-4975-B529-02FEBEBAE67F}.Debug|x86.Build.0 = Debug|Win32
+		{1F1A6AA7-0695-4975-B529-02FEBEBAE67F}.Release|x64.ActiveCfg = Release|x64
+		{1F1A6AA7-0695-4975-B529-02FEBEBAE67F}.Release|x64.Build.0 = Release|x64
+		{1F1A6AA7-0695-4975-B529-02FEBEBAE67F}.Release|x86.ActiveCfg = Release|Win32
+		{1F1A6AA7-0695-4975-B529-02FEBEBAE67F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
