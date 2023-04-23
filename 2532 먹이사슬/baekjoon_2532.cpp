@@ -15,9 +15,7 @@ void Print() {
 }
 
 int main() {
-	ios::sync_with_stdio(false);
-	cin.tie(0);
-	cout.tie(0);
+	ios_base::sync_with_stdio(false); cin.tie(nullptr);
 
 	cin >> N;
 	x.resize(N);
@@ -27,7 +25,7 @@ int main() {
 		cin >> a >> x[i].first >> x[i].second;
 	}
 
-	sort(x.begin(), x.end(), [](pair<int,int> a, pair<int,int> b) {
+	sort(x.begin(), x.end(), [](pair<int, int> a, pair<int, int> b) {
 		if (a.first == b.first) return a.second > b.second;
 		else return a.first < b.first;
 		});
