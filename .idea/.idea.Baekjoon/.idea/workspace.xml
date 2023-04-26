@@ -133,12 +133,11 @@
     <projectFile>TestBox2/TestBox2.vcxproj</projectFile>
     <projectFile>testbox/testbox.vcxproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4834b9c2-1497-4513-83fa-0ca0ae4dd75c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/2023_ICPC_Problem_C/2023_ICPC_Problem_C.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/2023_ICPC_Problem_C/2023_ICPC_Problem_C.vcxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023_ICPC_Problem_C/2023_ICPC_Problem_C.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/2023_ICPC_Problem_C/2023_ICPC_Problem_C.vcxproj.filters" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon.sln" afterDir="false" />
-    </list>
+    <list default="true" id="4834b9c2-1497-4513-83fa-0ca0ae4dd75c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,6 +145,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Toolset" />
   </component>
   <component name="ProjectId" id="2MGjKFh8RIaoeZwlMu1k5KWimVW" />
   <component name="ProjectViewState">
@@ -157,6 +159,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/usr/share/dotnet/dotnet",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "SolutionBuilderGeneralOptionsPage",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -6204,6 +6212,9 @@
       <option name="presentableId" value="Default" />
       <updated>1677400747657</updated>
       <workItem from="1677400748854" duration="48000" />
+      <workItem from="1682430790029" duration="27000" />
+      <workItem from="1682431595296" duration="579000" />
+      <workItem from="1682432478123" duration="3899000" />
     </task>
     <servers />
   </component>
