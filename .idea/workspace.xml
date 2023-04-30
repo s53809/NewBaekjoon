@@ -18,9 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bff82ae8-5771-4d90-b470-bf825c0a9972" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/11365 !급일 밀비/baekjoon_11365.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="bff82ae8-5771-4d90-b470-bf825c0a9972" name="Changes" comment="Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,8 +99,16 @@
       <workItem from="1682513050985" duration="37000" />
       <workItem from="1682513217950" duration="431000" />
       <workItem from="1682841880080" duration="101000" />
-      <workItem from="1682842188648" duration="321000" />
+      <workItem from="1682842188648" duration="836000" />
     </task>
+    <task id="LOCAL-00001" summary="Changes">
+      <created>1682842734615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682842734615</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,5 +119,9 @@
     <isAutomaticCheckingOnLaunch value="false" />
     <isAutomaticFoundErrors value="true" />
     <isAutomaticFoundErrors value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
 </project>

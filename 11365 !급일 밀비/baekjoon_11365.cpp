@@ -7,7 +7,7 @@ int main(){
 
     while(true){
         string str;
-        cin>>str;
+        getline(cin, str);
         if(str == "END") break;
         for(int i = str.size() - 1;i >=0;i--){
             cout<<str[i];
