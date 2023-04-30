@@ -19,8 +19,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bff82ae8-5771-4d90-b470-bf825c0a9972" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1000 A+B/baekjoon_1000.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11365 !급일 밀비/baekjoon_11365.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="C/C++ 파일.baekjoon_11365.cpp">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -78,8 +77,15 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="baekjoon_11365.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NewBaekjoon" TARGET_NAME="baekjoon_11365.cpp" CONFIG_NAME="baekjoon_11365.cpp">
+      <option name="sourceFile" value="11365 !급일 밀비/baekjoon_11365.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ 파일.baekjoon_11365.cpp" />
         <item itemvalue="C/C++ 파일.baekjoon_1000.cpp" />
       </list>
     </recent_temporary>
@@ -95,7 +101,7 @@
       <workItem from="1682513050985" duration="37000" />
       <workItem from="1682513217950" duration="431000" />
       <workItem from="1682841880080" duration="101000" />
-      <workItem from="1682842188648" duration="18000" />
+      <workItem from="1682842188648" duration="321000" />
     </task>
     <servers />
   </component>
