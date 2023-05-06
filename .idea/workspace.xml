@@ -19,7 +19,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bff82ae8-5771-4d90-b470-bf825c0a9972" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/14500 테트로미노/baekjoon_14500.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforce Round 871 Problem A/codeforce_A.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforce Round 871 Problem B/Problem_B.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforce Round 871 Problem C/Problem_C.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,10 +69,27 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="C/C++ 파일.baekjoon_14500.cpp">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Codeforce Round 871 Problem A" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ 파일.Problem_C.cpp">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_B.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NewBaekjoon" TARGET_NAME="Problem_B.cpp" CONFIG_NAME="Problem_B.cpp">
+      <option name="sourceFile" value="Codeforce Round 871 Problem B/Problem_B.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_C.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NewBaekjoon" TARGET_NAME="Problem_C.cpp" CONFIG_NAME="Problem_C.cpp">
+      <option name="sourceFile" value="Codeforce Round 871 Problem C/Problem_C.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="baekjoon_11403.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NewBaekjoon" TARGET_NAME="baekjoon_11403.cpp" CONFIG_NAME="baekjoon_11403.cpp">
@@ -85,31 +104,19 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="baekjoon_6064.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NewBaekjoon" TARGET_NAME="baekjoon_6064.cpp" CONFIG_NAME="baekjoon_6064.cpp">
-      <option name="sourceFile" value="6064 카잉 달력/baekjoon_6064.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="baekjoon_7662.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NewBaekjoon" TARGET_NAME="baekjoon_7662.cpp" CONFIG_NAME="baekjoon_7662.cpp">
-      <option name="sourceFile" value="7662 이중 우선순위 큐/baekjoon_7662.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="baekjoon_9019.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NewBaekjoon" TARGET_NAME="baekjoon_9019.cpp" CONFIG_NAME="baekjoon_9019.cpp">
-      <option name="sourceFile" value="9019 DSLR/baekjoon_9019.cpp" />
+    <configuration name="codeforce_A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NewBaekjoon" TARGET_NAME="codeforce_A.cpp" CONFIG_NAME="codeforce_A.cpp">
+      <option name="sourceFile" value="codeforce_A.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ 파일.Problem_C.cpp" />
+        <item itemvalue="C/C++ 파일.Problem_B.cpp" />
+        <item itemvalue="C/C++ 파일.codeforce_A.cpp" />
         <item itemvalue="C/C++ 파일.baekjoon_14500.cpp" />
         <item itemvalue="C/C++ 파일.baekjoon_11403.cpp" />
-        <item itemvalue="C/C++ 파일.baekjoon_9019.cpp" />
-        <item itemvalue="C/C++ 파일.baekjoon_7662.cpp" />
-        <item itemvalue="C/C++ 파일.baekjoon_6064.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -131,6 +138,7 @@
       <workItem from="1683188944250" duration="3116000" />
       <workItem from="1683212801150" duration="2857000" />
       <workItem from="1683269296823" duration="9196000" />
+      <workItem from="1683375864627" duration="2983000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1682842734615</created>
