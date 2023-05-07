@@ -19,10 +19,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bff82ae8-5771-4d90-b470-bf825c0a9972" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/Codeforce Round 871 Problem A/codeforce_A.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforce Round 871 Problem B/Problem_B.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforce Round 871 Problem C/Problem_C.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11052 카드 구매하기/baekjoon_11052.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/11052 카드 구매하기/baekjoon_11052.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,10 +72,10 @@
       <recent name="$PROJECT_DIR$/Codeforce Round 871 Problem A" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ 파일.Problem_C.cpp">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+  <component name="RunManager" selected="C/C++ 파일.baekjoon_11052.cpp">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
     <configuration name="Problem_B.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NewBaekjoon" TARGET_NAME="Problem_B.cpp" CONFIG_NAME="Problem_B.cpp">
@@ -92,8 +90,8 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="baekjoon_11403.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NewBaekjoon" TARGET_NAME="baekjoon_11403.cpp" CONFIG_NAME="baekjoon_11403.cpp">
-      <option name="sourceFile" value="11403 경로 찾기/baekjoon_11403.cpp" />
+    <configuration name="baekjoon_11052.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NewBaekjoon" TARGET_NAME="baekjoon_11052.cpp" CONFIG_NAME="baekjoon_11052.cpp">
+      <option name="sourceFile" value="11052 카드 구매하기/baekjoon_11052.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -112,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ 파일.baekjoon_11052.cpp" />
         <item itemvalue="C/C++ 파일.Problem_C.cpp" />
         <item itemvalue="C/C++ 파일.Problem_B.cpp" />
         <item itemvalue="C/C++ 파일.codeforce_A.cpp" />
         <item itemvalue="C/C++ 파일.baekjoon_14500.cpp" />
-        <item itemvalue="C/C++ 파일.baekjoon_11403.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -139,6 +137,7 @@
       <workItem from="1683212801150" duration="2857000" />
       <workItem from="1683269296823" duration="9196000" />
       <workItem from="1683375864627" duration="2983000" />
+      <workItem from="1683437593148" duration="1106000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1682842734615</created>
