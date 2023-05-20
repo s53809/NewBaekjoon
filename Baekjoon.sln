@@ -497,6 +497,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "25379 피하자", "25379 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "25381 ABBC", "25381 ABBC\25381 ABBC.vcxproj", "{AC03D1DB-A826-4173-95B0-B3A538B3C155}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1700 멀티탭 스케쥴링", "1700 멀티탭 스케쥴링\1700 멀티탭 스케쥴링.vcxproj", "{5A47B66D-FCC6-4492-8E30-630C2C62514C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2481,6 +2483,14 @@ Global
 		{AC03D1DB-A826-4173-95B0-B3A538B3C155}.Release|x64.Build.0 = Release|x64
 		{AC03D1DB-A826-4173-95B0-B3A538B3C155}.Release|x86.ActiveCfg = Release|Win32
 		{AC03D1DB-A826-4173-95B0-B3A538B3C155}.Release|x86.Build.0 = Release|Win32
+		{5A47B66D-FCC6-4492-8E30-630C2C62514C}.Debug|x64.ActiveCfg = Debug|x64
+		{5A47B66D-FCC6-4492-8E30-630C2C62514C}.Debug|x64.Build.0 = Debug|x64
+		{5A47B66D-FCC6-4492-8E30-630C2C62514C}.Debug|x86.ActiveCfg = Debug|Win32
+		{5A47B66D-FCC6-4492-8E30-630C2C62514C}.Debug|x86.Build.0 = Debug|Win32
+		{5A47B66D-FCC6-4492-8E30-630C2C62514C}.Release|x64.ActiveCfg = Release|x64
+		{5A47B66D-FCC6-4492-8E30-630C2C62514C}.Release|x64.Build.0 = Release|x64
+		{5A47B66D-FCC6-4492-8E30-630C2C62514C}.Release|x86.ActiveCfg = Release|Win32
+		{5A47B66D-FCC6-4492-8E30-630C2C62514C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
