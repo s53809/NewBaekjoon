@@ -513,6 +513,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2644 촌수계산", "2644 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2573 빙산", "2573 빙산\2573 빙산.vcxproj", "{1409D10A-8152-42A5-AF07-9B7BA769360D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11725 트리의 부모 찾기", "11725 트리의 부모 찾기\11725 트리의 부모 찾기.vcxproj", "{B10C22D8-A917-4DAB-885E-F1E73CF0E5FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2561,6 +2563,14 @@ Global
 		{1409D10A-8152-42A5-AF07-9B7BA769360D}.Release|x64.Build.0 = Release|x64
 		{1409D10A-8152-42A5-AF07-9B7BA769360D}.Release|x86.ActiveCfg = Release|Win32
 		{1409D10A-8152-42A5-AF07-9B7BA769360D}.Release|x86.Build.0 = Release|Win32
+		{B10C22D8-A917-4DAB-885E-F1E73CF0E5FC}.Debug|x64.ActiveCfg = Debug|x64
+		{B10C22D8-A917-4DAB-885E-F1E73CF0E5FC}.Debug|x64.Build.0 = Debug|x64
+		{B10C22D8-A917-4DAB-885E-F1E73CF0E5FC}.Debug|x86.ActiveCfg = Debug|Win32
+		{B10C22D8-A917-4DAB-885E-F1E73CF0E5FC}.Debug|x86.Build.0 = Debug|Win32
+		{B10C22D8-A917-4DAB-885E-F1E73CF0E5FC}.Release|x64.ActiveCfg = Release|x64
+		{B10C22D8-A917-4DAB-885E-F1E73CF0E5FC}.Release|x64.Build.0 = Release|x64
+		{B10C22D8-A917-4DAB-885E-F1E73CF0E5FC}.Release|x86.ActiveCfg = Release|Win32
+		{B10C22D8-A917-4DAB-885E-F1E73CF0E5FC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
