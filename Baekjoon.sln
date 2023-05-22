@@ -503,6 +503,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2212 센서", "2212 센서\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17362 수학은 체육과목 입니다2", "17362 수학은 체육과목 입니다2\17362 수학은 체육과목 입니다2.vcxproj", "{4A756292-1F5B-45FC-B450-F60B43343DEB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4963 섬의 개수", "4963 섬의 개수\4963 섬의 개수.vcxproj", "{ABEBA98D-15F7-4AA3-BB45-1219284F2C11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2511,6 +2513,14 @@ Global
 		{4A756292-1F5B-45FC-B450-F60B43343DEB}.Release|x64.Build.0 = Release|x64
 		{4A756292-1F5B-45FC-B450-F60B43343DEB}.Release|x86.ActiveCfg = Release|Win32
 		{4A756292-1F5B-45FC-B450-F60B43343DEB}.Release|x86.Build.0 = Release|Win32
+		{ABEBA98D-15F7-4AA3-BB45-1219284F2C11}.Debug|x64.ActiveCfg = Debug|x64
+		{ABEBA98D-15F7-4AA3-BB45-1219284F2C11}.Debug|x64.Build.0 = Debug|x64
+		{ABEBA98D-15F7-4AA3-BB45-1219284F2C11}.Debug|x86.ActiveCfg = Debug|Win32
+		{ABEBA98D-15F7-4AA3-BB45-1219284F2C11}.Debug|x86.Build.0 = Debug|Win32
+		{ABEBA98D-15F7-4AA3-BB45-1219284F2C11}.Release|x64.ActiveCfg = Release|x64
+		{ABEBA98D-15F7-4AA3-BB45-1219284F2C11}.Release|x64.Build.0 = Release|x64
+		{ABEBA98D-15F7-4AA3-BB45-1219284F2C11}.Release|x86.ActiveCfg = Release|Win32
+		{ABEBA98D-15F7-4AA3-BB45-1219284F2C11}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
