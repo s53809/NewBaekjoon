@@ -48,7 +48,7 @@ int main() {
 
 	int ans = 0;
 
-	for (int water = 1; water <= maxNum; water++) {
+	for (int water = 0; water <= maxNum; water++) {
 		int cnt = 0;
 		for (int i = 0; i < N; i++) fill(visited[i].begin(), visited[i].end(), false);
 		for (int i = 0; i < N; i++) {
