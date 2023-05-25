@@ -1,25 +1,19 @@
 #include <iostream>
-#include <vector>
+#include <algorithm>
 using namespace std;
 
 int main() {
-	ios::sync_with_stdio(false);
-	cin.tie(0);
-	cout.tie(0);
+	ios_base::sync_with_stdio(false); cin.tie(nullptr);
 
 	int N;
 	cin >> N;
-	vector<int> x(N);
-
-	for (int i = 0; i < 10; i++) {
-		cin >> x[i];
-	}
-
-	int ans = 0;
-	for (int i = 0; i < 10; i++) {
-		if (x[i] == N) {
-			cout << "answer is " << i << '\n';
-			break;
+	for (int i = 1; i <= N; i++) {
+		for (int j = 1; j <= (N - i); j++) {
+			cout << ' ';
 		}
+		for (int j = (N - i) + 1; j <= N; j++) {
+			cout << j;
+		}
+		cout << '\n';
 	}
 }
