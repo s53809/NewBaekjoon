@@ -529,6 +529,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2096 내려가기", "2096 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11660 구간 합 구하기 5", "11660 구간 합 구하기 5\11660 구간 합 구하기 5.vcxproj", "{4D84121C-54E6-499C-B8EB-D9A5F4A0E5AC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "27743 어려운 하노이 탑", "27743 어려운 하노이 탑\27743 어려운 하노이 탑.vcxproj", "{CED36EF8-406F-4A33-B9F1-A5B5F684D740}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2641,6 +2643,14 @@ Global
 		{4D84121C-54E6-499C-B8EB-D9A5F4A0E5AC}.Release|x64.Build.0 = Release|x64
 		{4D84121C-54E6-499C-B8EB-D9A5F4A0E5AC}.Release|x86.ActiveCfg = Release|Win32
 		{4D84121C-54E6-499C-B8EB-D9A5F4A0E5AC}.Release|x86.Build.0 = Release|Win32
+		{CED36EF8-406F-4A33-B9F1-A5B5F684D740}.Debug|x64.ActiveCfg = Debug|x64
+		{CED36EF8-406F-4A33-B9F1-A5B5F684D740}.Debug|x64.Build.0 = Debug|x64
+		{CED36EF8-406F-4A33-B9F1-A5B5F684D740}.Debug|x86.ActiveCfg = Debug|Win32
+		{CED36EF8-406F-4A33-B9F1-A5B5F684D740}.Debug|x86.Build.0 = Debug|Win32
+		{CED36EF8-406F-4A33-B9F1-A5B5F684D740}.Release|x64.ActiveCfg = Release|x64
+		{CED36EF8-406F-4A33-B9F1-A5B5F684D740}.Release|x64.Build.0 = Release|x64
+		{CED36EF8-406F-4A33-B9F1-A5B5F684D740}.Release|x86.ActiveCfg = Release|Win32
+		{CED36EF8-406F-4A33-B9F1-A5B5F684D740}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
