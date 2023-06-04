@@ -541,6 +541,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17626 Four Squares", "17626
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2591 숫자카드", "2591 숫자카드\2591 숫자카드.vcxproj", "{37590CF1-C57D-4934-ABFA-9F4BD731BD90}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2613 숫자구슬", "2613 숫자구슬\2613 숫자구슬.vcxproj", "{6721D570-D111-4058-9075-15078ABA79B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2701,6 +2703,14 @@ Global
 		{37590CF1-C57D-4934-ABFA-9F4BD731BD90}.Release|x64.Build.0 = Release|x64
 		{37590CF1-C57D-4934-ABFA-9F4BD731BD90}.Release|x86.ActiveCfg = Release|Win32
 		{37590CF1-C57D-4934-ABFA-9F4BD731BD90}.Release|x86.Build.0 = Release|Win32
+		{6721D570-D111-4058-9075-15078ABA79B2}.Debug|x64.ActiveCfg = Debug|x64
+		{6721D570-D111-4058-9075-15078ABA79B2}.Debug|x64.Build.0 = Debug|x64
+		{6721D570-D111-4058-9075-15078ABA79B2}.Debug|x86.ActiveCfg = Debug|Win32
+		{6721D570-D111-4058-9075-15078ABA79B2}.Debug|x86.Build.0 = Debug|Win32
+		{6721D570-D111-4058-9075-15078ABA79B2}.Release|x64.ActiveCfg = Release|x64
+		{6721D570-D111-4058-9075-15078ABA79B2}.Release|x64.Build.0 = Release|x64
+		{6721D570-D111-4058-9075-15078ABA79B2}.Release|x86.ActiveCfg = Release|Win32
+		{6721D570-D111-4058-9075-15078ABA79B2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
