@@ -547,6 +547,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7571 점 모으기", "7571 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2098 외판원 순회", "2098 외판원 순회\2098 외판원 순회.vcxproj", "{F097A45D-EE39-49BA-AD39-2C988C48B828}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18110 solved.ac", "18110 solved.ac\18110 solved.ac.vcxproj", "{E2B35CA3-78C2-4BBC-844B-812369A97D4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2731,6 +2733,14 @@ Global
 		{F097A45D-EE39-49BA-AD39-2C988C48B828}.Release|x64.Build.0 = Release|x64
 		{F097A45D-EE39-49BA-AD39-2C988C48B828}.Release|x86.ActiveCfg = Release|Win32
 		{F097A45D-EE39-49BA-AD39-2C988C48B828}.Release|x86.Build.0 = Release|Win32
+		{E2B35CA3-78C2-4BBC-844B-812369A97D4E}.Debug|x64.ActiveCfg = Debug|x64
+		{E2B35CA3-78C2-4BBC-844B-812369A97D4E}.Debug|x64.Build.0 = Debug|x64
+		{E2B35CA3-78C2-4BBC-844B-812369A97D4E}.Debug|x86.ActiveCfg = Debug|Win32
+		{E2B35CA3-78C2-4BBC-844B-812369A97D4E}.Debug|x86.Build.0 = Debug|Win32
+		{E2B35CA3-78C2-4BBC-844B-812369A97D4E}.Release|x64.ActiveCfg = Release|x64
+		{E2B35CA3-78C2-4BBC-844B-812369A97D4E}.Release|x64.Build.0 = Release|x64
+		{E2B35CA3-78C2-4BBC-844B-812369A97D4E}.Release|x86.ActiveCfg = Release|Win32
+		{E2B35CA3-78C2-4BBC-844B-812369A97D4E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
