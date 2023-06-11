@@ -1,19 +1,18 @@
 #include <iostream>
-#include <algorithm>
+#include <cmath>
 using namespace std;
 
-int main() {
-	ios_base::sync_with_stdio(false); cin.tie(nullptr);
+void hanoi(int strPos, int imsi, int goal, int N) { //strPos에서 시작해서 imsi를 거쳐 goal로 가는 함수다
+	if (N == 0) return;
+	hanoi(strPos, goal, imsi, N - 1);
+	cout << strPos << ' ' << goal << '\n';
+	hanoi(imsi, strPos, goal, N - 1);
+}
 
+int main() {
 	int N;
 	cin >> N;
-	for (int i = 1; i <= N; i++) {
-		for (int j = 1; j <= (N - i); j++) {
-			cout << ' ';
-		}
-		for (int j = (N - i) + 1; j <= N; j++) {
-			cout << j;
-		}
-		cout << '\n';
-	}
+
+	cout << (int)(pow(2, N) - 1) << '\n'; // 2^N - 1
+	hanoi(1, 2, 3, N);
 }
