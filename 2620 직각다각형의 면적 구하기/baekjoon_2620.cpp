@@ -54,6 +54,8 @@ int main() {
 	for (int iter : sorted_yPos) { yDic.insert({ iter, (it++ * 2) + 1 }); }
 	it--;
 
+	
+
 	x.resize((it * 2) + 2, vector<int>((it * 2) + 2));
 
 	for (int i = 1; i < N; i++) {
