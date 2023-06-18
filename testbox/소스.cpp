@@ -1,18 +1,50 @@
 #include <iostream>
-#include <cmath>
+#include <vector>
+#include <string>
 using namespace std;
 
-void hanoi(int strPos, int imsi, int goal, int N) { //strPos에서 시작해서 imsi를 거쳐 goal로 가는 함수다
-	if (N == 0) return;
-	hanoi(strPos, goal, imsi, N - 1);
-	cout << strPos << ' ' << goal << '\n';
-	hanoi(imsi, strPos, goal, N - 1);
-}
-
 int main() {
-	int N;
-	cin >> N;
+    ios_base::sync_with_stdio(false); cin.tie(nullptr);
+    int N;
+    cin >> N;
 
-	cout << (int)(pow(2, N) - 1) << '\n'; // 2^N - 1
-	hanoi(1, 2, 3, N);
+    vector<int> x(1000000);
+
+    if (N == 1) {
+        cout << "1";
+        return 0;
+    }
+    else if (N == 2) {
+        cout << "10";
+        return 0;
+    }
+
+    x[0] = 0;
+    x[1] = 1;
+    x[2] = 2;
+
+    for (int i = 3; x[i - 1] <= N; i++) {
+        x[i] = x[i - 1] + x[i - 2] + 1;
+    }
+
+    string ans = "";
+
+    int cnt = 0;
+
+    for (; N > 2;) {
+        cnt++;
+        int i = 0;
+        for (; x[i] < N; i++) {}
+        N -= (x[i - 1] + 1);
+        int temp = i;
+        ans += "10";
+        for (i = 0; x[i] < N; i++) {}
+        for (int j = 0; j < temp - i - 2; j++) ans += "0";
+        if (N == 2) ans += "10";
+        else if (N == 1) ans += "1";
+    }
+
+    cout << ans;
+
+    return 0;
 }
