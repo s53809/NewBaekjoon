@@ -63,7 +63,7 @@ int main() {
 		lld a, b, c;
 		cin >> a >> b >> c;
 		if (a == 1) seg.InputValue(b, c);
-		else if (a == 2) cout << seg.sum(b, c, 1, 1, N) << '\n';
+		else cout << seg.sum(b, c, 1, 1, N) << '\n';
 		/*for (int j = 0; j < seg.size * 2; j++) cout << seg.arr[j] << ' ';
 		cout << '\n';*/
 	}
