@@ -563,6 +563,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8982 수족관 1", "8982 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10999 구간 합 구하기 2", "10999 구간 합 구하기 2\10999 구간 합 구하기 2.vcxproj", "{347C8F2E-88D0-4FF5-9334-6E17EA3B1532}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2307 도로검문", "2307 도로검문\2307 도로검문.vcxproj", "{80D587A1-84AC-4D2F-856F-D52116467A32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2811,6 +2813,14 @@ Global
 		{347C8F2E-88D0-4FF5-9334-6E17EA3B1532}.Release|x64.Build.0 = Release|x64
 		{347C8F2E-88D0-4FF5-9334-6E17EA3B1532}.Release|x86.ActiveCfg = Release|Win32
 		{347C8F2E-88D0-4FF5-9334-6E17EA3B1532}.Release|x86.Build.0 = Release|Win32
+		{80D587A1-84AC-4D2F-856F-D52116467A32}.Debug|x64.ActiveCfg = Debug|x64
+		{80D587A1-84AC-4D2F-856F-D52116467A32}.Debug|x64.Build.0 = Debug|x64
+		{80D587A1-84AC-4D2F-856F-D52116467A32}.Debug|x86.ActiveCfg = Debug|Win32
+		{80D587A1-84AC-4D2F-856F-D52116467A32}.Debug|x86.Build.0 = Debug|Win32
+		{80D587A1-84AC-4D2F-856F-D52116467A32}.Release|x64.ActiveCfg = Release|x64
+		{80D587A1-84AC-4D2F-856F-D52116467A32}.Release|x64.Build.0 = Release|x64
+		{80D587A1-84AC-4D2F-856F-D52116467A32}.Release|x86.ActiveCfg = Release|Win32
+		{80D587A1-84AC-4D2F-856F-D52116467A32}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

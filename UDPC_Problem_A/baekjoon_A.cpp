@@ -1,27 +1,48 @@
-#include <iostream>
-#include <cmath>
+#include <stdio.h>
+#include <stdlib.h>
+#include <set>
+#include <vector>
+#include <utility>
+#define fi first
+#define se second
 using namespace std;
 
-int main() {
-	ios_base::sync_with_stdio(false); cin.tie(nullptr);
+typedef pair<int, int> pii;
 
-	int N;
-	cin >> N;
-	int dScore = 0, pScore = 0;
-	bool isDone = false;
-	for (int i = 0; i < N; i++) {
-		char c;
-		cin >> c;
-		if (isDone) continue;
-		if (c == 'D') {
-			dScore++;
-		}
-		else {
-			pScore++;
-		}
-		if (abs(dScore - pScore) >= 2) {
-			isDone = true;
-		}
+int main()
+{
+	int N = 1000, M = 5000, tMAX = 10000;
+	int i, t, a, b;
+	pii tmp;
+	set<pii> s;
+	set<pii>::iterator it;
+	vector<pii> v;
+
+	printf("%d %d\n", N, M);
+
+	for (i = 1; i < N; ++i) s.insert({ i, i + 1 });
+
+	while (s.size() < M) {
+		a = rand() % N + 1;
+		b = rand() % N + 1;
+		if (a > b) t = a, a = b, b = t;
+		s.insert({ a, b });
 	}
-	cout << dScore << ":" << pScore;
+
+	for (it = s.begin(); it != s.end(); ++it) {
+		tmp = *it;
+		v.push_back(tmp);
+	}
+
+	for (i = 0; i < 3000; ++i) {
+		pii& p1 = v[rand() % M];
+		pii& p2 = v[rand() % M];
+		tmp = p1, p1 = p2, p2 = tmp;
+	}
+
+	for (i = 0; i < v.size(); ++i) {
+		t = rand() % tMAX + 1;
+		printf("%d %d %d\n", v[i].fi, v[i].se, t);
+	}
+	return 0;
 }
