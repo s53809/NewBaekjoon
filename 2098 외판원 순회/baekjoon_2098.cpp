@@ -8,7 +8,7 @@ vector<vector<int>> x;
 vector<vector<int>> dp;
 int ansState = 0;
 
-int DFS(int pos, int state) {
+int DP(int pos, int state) {
 	if (x[pos][0] != 0 && state == ansState) { return x[pos][0]; }
 	else if (x[pos][0] == 0 && state == ansState) return 1e9;
 	if (dp[pos][state] != 0) return dp[pos][state];
@@ -16,7 +16,7 @@ int DFS(int pos, int state) {
 	dp[pos][state] = 1e9;
 	for (int i = 0; i < N; i++) {
 		if (x[pos][i] != 0 && (state & (1 << i)) == 0) {
-			dp[pos][state] = min(dp[pos][state], x[pos][i] + DFS(i, state | (1 << i)));
+			dp[pos][state] = min(dp[pos][state], x[pos][i] + DP(i, state | (1 << i)));
 		}
 	}
 	return dp[pos][state];
@@ -37,5 +37,5 @@ int main() {
 
 	ansState = (1 << N) - 1;
 
-	cout << DFS(0, 1);
+	cout << DP(0, 1);
 }
