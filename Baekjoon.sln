@@ -587,6 +587,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1562 계단 수", "1562 계
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1647 도시 분할 계획", "1647 도시 분할 계획\1647 도시 분할 계획.vcxproj", "{0393BFA7-B06F-4833-B841-A683BB742CD2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1766 문제집", "1766 문제집\1766 문제집.vcxproj", "{F1D3286E-9095-475B-8266-A479C4A01393}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2931,6 +2933,14 @@ Global
 		{0393BFA7-B06F-4833-B841-A683BB742CD2}.Release|x64.Build.0 = Release|x64
 		{0393BFA7-B06F-4833-B841-A683BB742CD2}.Release|x86.ActiveCfg = Release|Win32
 		{0393BFA7-B06F-4833-B841-A683BB742CD2}.Release|x86.Build.0 = Release|Win32
+		{F1D3286E-9095-475B-8266-A479C4A01393}.Debug|x64.ActiveCfg = Debug|x64
+		{F1D3286E-9095-475B-8266-A479C4A01393}.Debug|x64.Build.0 = Debug|x64
+		{F1D3286E-9095-475B-8266-A479C4A01393}.Debug|x86.ActiveCfg = Debug|Win32
+		{F1D3286E-9095-475B-8266-A479C4A01393}.Debug|x86.Build.0 = Debug|Win32
+		{F1D3286E-9095-475B-8266-A479C4A01393}.Release|x64.ActiveCfg = Release|x64
+		{F1D3286E-9095-475B-8266-A479C4A01393}.Release|x64.Build.0 = Release|x64
+		{F1D3286E-9095-475B-8266-A479C4A01393}.Release|x86.ActiveCfg = Release|Win32
+		{F1D3286E-9095-475B-8266-A479C4A01393}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
