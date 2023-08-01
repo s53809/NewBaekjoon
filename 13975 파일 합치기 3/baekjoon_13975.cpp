@@ -18,12 +18,10 @@ int main() {
 			pq.push(input);
 		}
 		
-		int ans = 0;
+		ll ans = 0;
 		while (pq.size() != 1) {
 			ll temp_1 = pq.top(); pq.pop();
 			ll temp_2 = pq.top(); pq.pop();
-
-			cout << temp_1 << ' ' << temp_2 << '\n';
 			
 			ans += temp_1 + temp_2;
 			pq.push(temp_1 + temp_2);
