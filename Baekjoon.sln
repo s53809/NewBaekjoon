@@ -593,6 +593,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1799 비숍", "1799 비숍\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2143 두 배열의 합", "2143 두 배열의 합\2143 두 배열의 합.vcxproj", "{8D8D6241-1956-4CB0-951E-4EEABAA1F009}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13975 파일 합치기 3", "13975 파일 합치기 3\13975 파일 합치기 3.vcxproj", "{76E9D415-6C6E-430D-A209-24AEC6A003CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2961,6 +2963,14 @@ Global
 		{8D8D6241-1956-4CB0-951E-4EEABAA1F009}.Release|x64.Build.0 = Release|x64
 		{8D8D6241-1956-4CB0-951E-4EEABAA1F009}.Release|x86.ActiveCfg = Release|Win32
 		{8D8D6241-1956-4CB0-951E-4EEABAA1F009}.Release|x86.Build.0 = Release|Win32
+		{76E9D415-6C6E-430D-A209-24AEC6A003CA}.Debug|x64.ActiveCfg = Debug|x64
+		{76E9D415-6C6E-430D-A209-24AEC6A003CA}.Debug|x64.Build.0 = Debug|x64
+		{76E9D415-6C6E-430D-A209-24AEC6A003CA}.Debug|x86.ActiveCfg = Debug|Win32
+		{76E9D415-6C6E-430D-A209-24AEC6A003CA}.Debug|x86.Build.0 = Debug|Win32
+		{76E9D415-6C6E-430D-A209-24AEC6A003CA}.Release|x64.ActiveCfg = Release|x64
+		{76E9D415-6C6E-430D-A209-24AEC6A003CA}.Release|x64.Build.0 = Release|x64
+		{76E9D415-6C6E-430D-A209-24AEC6A003CA}.Release|x86.ActiveCfg = Release|Win32
+		{76E9D415-6C6E-430D-A209-24AEC6A003CA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

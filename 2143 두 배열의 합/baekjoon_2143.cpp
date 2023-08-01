@@ -30,7 +30,7 @@ int main() {
 		y[i] = y[i - 1] + a;
 	}
 
-	map<int, int> dic;
+	map<int, ll> dic;
 
 	for (int i = 0; i < N; i++) {
 		for (int j = i + 1; j <= N; j++) {
