@@ -601,6 +601,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1826 연료 채우기", "18
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9576 책 나눠주기", "9576 책 나눠주기\9576 책 나눠주기.vcxproj", "{C3ABAFFB-5040-4C05-9AC0-BBB1B921EE9D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12738 가장 긴 증가하는 부분 수열 3", "12738 가장 긴 증가하는 부분 수열 3\12738 가장 긴 증가하는 부분 수열 3.vcxproj", "{292B2DDC-2C8A-4BA5-B402-FDF3D12AEA1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3001,6 +3003,14 @@ Global
 		{C3ABAFFB-5040-4C05-9AC0-BBB1B921EE9D}.Release|x64.Build.0 = Release|x64
 		{C3ABAFFB-5040-4C05-9AC0-BBB1B921EE9D}.Release|x86.ActiveCfg = Release|Win32
 		{C3ABAFFB-5040-4C05-9AC0-BBB1B921EE9D}.Release|x86.Build.0 = Release|Win32
+		{292B2DDC-2C8A-4BA5-B402-FDF3D12AEA1A}.Debug|x64.ActiveCfg = Debug|x64
+		{292B2DDC-2C8A-4BA5-B402-FDF3D12AEA1A}.Debug|x64.Build.0 = Debug|x64
+		{292B2DDC-2C8A-4BA5-B402-FDF3D12AEA1A}.Debug|x86.ActiveCfg = Debug|Win32
+		{292B2DDC-2C8A-4BA5-B402-FDF3D12AEA1A}.Debug|x86.Build.0 = Debug|Win32
+		{292B2DDC-2C8A-4BA5-B402-FDF3D12AEA1A}.Release|x64.ActiveCfg = Release|x64
+		{292B2DDC-2C8A-4BA5-B402-FDF3D12AEA1A}.Release|x64.Build.0 = Release|x64
+		{292B2DDC-2C8A-4BA5-B402-FDF3D12AEA1A}.Release|x86.ActiveCfg = Release|Win32
+		{292B2DDC-2C8A-4BA5-B402-FDF3D12AEA1A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
