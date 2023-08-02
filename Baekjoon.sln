@@ -597,6 +597,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13975 파일 합치기 3", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1339 단어 수학", "1339 단어 수학\1339 단어 수학.vcxproj", "{5B344F6D-331F-4E6F-AF9A-1279E7EDB14C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1826 연료 채우기", "1826 연료 채우기\1826 연료 채우기.vcxproj", "{222352EF-8328-4D9A-A80E-89EC79E6BCEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2981,6 +2983,14 @@ Global
 		{5B344F6D-331F-4E6F-AF9A-1279E7EDB14C}.Release|x64.Build.0 = Release|x64
 		{5B344F6D-331F-4E6F-AF9A-1279E7EDB14C}.Release|x86.ActiveCfg = Release|Win32
 		{5B344F6D-331F-4E6F-AF9A-1279E7EDB14C}.Release|x86.Build.0 = Release|Win32
+		{222352EF-8328-4D9A-A80E-89EC79E6BCEA}.Debug|x64.ActiveCfg = Debug|x64
+		{222352EF-8328-4D9A-A80E-89EC79E6BCEA}.Debug|x64.Build.0 = Debug|x64
+		{222352EF-8328-4D9A-A80E-89EC79E6BCEA}.Debug|x86.ActiveCfg = Debug|Win32
+		{222352EF-8328-4D9A-A80E-89EC79E6BCEA}.Debug|x86.Build.0 = Debug|Win32
+		{222352EF-8328-4D9A-A80E-89EC79E6BCEA}.Release|x64.ActiveCfg = Release|x64
+		{222352EF-8328-4D9A-A80E-89EC79E6BCEA}.Release|x64.Build.0 = Release|x64
+		{222352EF-8328-4D9A-A80E-89EC79E6BCEA}.Release|x86.ActiveCfg = Release|Win32
+		{222352EF-8328-4D9A-A80E-89EC79E6BCEA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
