@@ -53,7 +53,7 @@ int main() {
 		}
 	}
 
-	cout << inputs.size() << " " << input_size << '\n';
+	//cout << inputs.size() << " " << input_size << '\n';
 
 	checkSudoku(0);
 }
