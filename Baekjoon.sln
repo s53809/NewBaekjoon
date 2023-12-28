@@ -611,6 +611,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2252 줄 세우기", "2252 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12015 가장 긴 증가하는 부분 수열 2", "12015 가장 긴 증가하는 부분 수열 2\12015 가장 긴 증가하는 부분 수열 2.vcxproj", "{F580B5AD-AE6F-492E-B908-F7CB8FFA2B43}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1459 걷기", "1459 걷기\1459 걷기.vcxproj", "{F9AA66AC-D947-43F6-B2A6-34462CD7976E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3051,6 +3053,14 @@ Global
 		{F580B5AD-AE6F-492E-B908-F7CB8FFA2B43}.Release|x64.Build.0 = Release|x64
 		{F580B5AD-AE6F-492E-B908-F7CB8FFA2B43}.Release|x86.ActiveCfg = Release|Win32
 		{F580B5AD-AE6F-492E-B908-F7CB8FFA2B43}.Release|x86.Build.0 = Release|Win32
+		{F9AA66AC-D947-43F6-B2A6-34462CD7976E}.Debug|x64.ActiveCfg = Debug|x64
+		{F9AA66AC-D947-43F6-B2A6-34462CD7976E}.Debug|x64.Build.0 = Debug|x64
+		{F9AA66AC-D947-43F6-B2A6-34462CD7976E}.Debug|x86.ActiveCfg = Debug|Win32
+		{F9AA66AC-D947-43F6-B2A6-34462CD7976E}.Debug|x86.Build.0 = Debug|Win32
+		{F9AA66AC-D947-43F6-B2A6-34462CD7976E}.Release|x64.ActiveCfg = Release|x64
+		{F9AA66AC-D947-43F6-B2A6-34462CD7976E}.Release|x64.Build.0 = Release|x64
+		{F9AA66AC-D947-43F6-B2A6-34462CD7976E}.Release|x86.ActiveCfg = Release|Win32
+		{F9AA66AC-D947-43F6-B2A6-34462CD7976E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
