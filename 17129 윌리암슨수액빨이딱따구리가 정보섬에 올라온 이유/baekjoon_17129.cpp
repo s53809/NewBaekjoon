@@ -53,6 +53,13 @@ int main() {
 	}
 
 	int ans = BFS(strXPos, strYPos);
+
+	for (int i = 0; i < N; i++) {
+		for (int j = 0; j < M; j++) {
+			cout << visited[i][j] << ' ';
+		}
+		cout << '\n';
+	}
 	if (ans == -1) cout << "NIE";
 	else {
 		cout << "TAK\n" << ans;
