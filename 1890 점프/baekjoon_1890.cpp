@@ -1,55 +1,48 @@
 #include <iostream>
-#include <queue>
+#include <vector>
 #include <algorithm>
+typedef long long int lld;
 using namespace std;
 
-int x[101][101];
-long long cnt[101][101] = { 0 };
 int N;
+vector<vector<int>> arr;
+vector<vector<lld>> dp;
+vector<vector<bool>> visited;
 
-int d_x[] = { 0,1 };
-int d_y[] = { 1,0 };
+int d_x[2] = { 1, 0 };
+int d_y[2] = { 0,1 };
+
+lld DFS(int x, int y) {
+	if (x == N - 1 && y == N - 1) return 1;
+	if (arr[y][x] == 0) return 0;
+
+	if (dp[y][x] != -1 || visited[y][x]) return dp[y][x];
+	visited[y][x] = true;
+
+	dp[y][x] = 0;
+	for (int i = 0; i < 2; i++) {
+		int dir_x = (d_x[i] * arr[y][x]) + x;
+		int dir_y = (d_y[i] * arr[y][x]) + y;
+
+		if (0 <= dir_x && dir_x < N && 0 <= dir_y && dir_y < N) {
+			dp[y][x] += DFS(dir_x, dir_y);
+		}
+	}
+	return dp[y][x];
+}
+
 
 
 int main() {
-	ios::sync_with_stdio(false);
-	cin.tie(0);
-	cout.tie(0);
-
 	cin >> N;
-	cnt[0][0] = 1;
+	arr.resize(N, vector<int>(N, 0));
+	dp.resize(N, vector<lld>(N, -1));
+	visited.resize(N, vector<bool>(N, false));
 	for (int i = 0; i < N; i++) {
 		for (int j = 0; j < N; j++) {
-			cin >> x[i][j];
+			cin >> arr[i][j];
 		}
 	}
 
-	int ans = 0;
-
-	for (int i = 0; i < N; i++) {
-		for (int j = 0; j < N; j++) {
-			if (i == N - 1 && j == N - 1) break;
-			if (cnt[i][j] >= 1) {
-				for (int u = 0; u < 2; u++) {
-					int dir_x = j + (d_x[u] * x[i][j]);
-					int dir_y = i + (d_y[u] * x[i][j]);
-					if (dir_x >= 0 && dir_x < N && dir_y >= 0 && dir_y < N) {
-						if (dir_y == N - 1 && dir_x == N - 1) {
-							//cout << j << ' ' << i << ' ' << cnt[i][j] << '\n';
-						}
-						cnt[dir_y][dir_x] += cnt[i][j];
-					}
-				}
-			}
-		}
-	}
-
-// 	for (int i = 0; i < N; i++) {
-// 		for (int j = 0; j < N; j++) {
-// 			cout << cnt[i][j] << ' ';
-// 		}
-// 		cout << '\n';
-// 	}
-
-	cout << cnt[N - 1][N - 1];
+	cout << DFS(0, 0);
 }
