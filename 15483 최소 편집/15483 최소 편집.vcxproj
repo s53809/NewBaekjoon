@@ -24,7 +24,7 @@
     <ProjectGuid>{2bc4fd61-4675-45a8-89e0-97fec5179c4e}</ProjectGuid>
     <RootNamespace>My15483최소편집</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>9252 LCS 2</ProjectName>
+    <ProjectName>15483 최소 편집</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
