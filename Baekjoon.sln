@@ -647,6 +647,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2636 치즈", "2636 치즈\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2281 데스노트", "2281 데스노트\2281 데스노트.vcxproj", "{507B0E53-8023-4A6B-B277-ED29664D2BF2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1261 알고스팟", "1261 알고스팟\1261 알고스팟.vcxproj", "{6ED899A1-272A-49AB-ABD0-A9BA2451553F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3231,6 +3233,14 @@ Global
 		{507B0E53-8023-4A6B-B277-ED29664D2BF2}.Release|x64.Build.0 = Release|x64
 		{507B0E53-8023-4A6B-B277-ED29664D2BF2}.Release|x86.ActiveCfg = Release|Win32
 		{507B0E53-8023-4A6B-B277-ED29664D2BF2}.Release|x86.Build.0 = Release|Win32
+		{6ED899A1-272A-49AB-ABD0-A9BA2451553F}.Debug|x64.ActiveCfg = Debug|x64
+		{6ED899A1-272A-49AB-ABD0-A9BA2451553F}.Debug|x64.Build.0 = Debug|x64
+		{6ED899A1-272A-49AB-ABD0-A9BA2451553F}.Debug|x86.ActiveCfg = Debug|Win32
+		{6ED899A1-272A-49AB-ABD0-A9BA2451553F}.Debug|x86.Build.0 = Debug|Win32
+		{6ED899A1-272A-49AB-ABD0-A9BA2451553F}.Release|x64.ActiveCfg = Release|x64
+		{6ED899A1-272A-49AB-ABD0-A9BA2451553F}.Release|x64.Build.0 = Release|x64
+		{6ED899A1-272A-49AB-ABD0-A9BA2451553F}.Release|x86.ActiveCfg = Release|Win32
+		{6ED899A1-272A-49AB-ABD0-A9BA2451553F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
