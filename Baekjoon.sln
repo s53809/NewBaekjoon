@@ -661,6 +661,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "돌 게임 6", "돌 게임 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9661 돌 게임 7", "9661 돌 게임 7\9661 돌 게임 7.vcxproj", "{B8EBCBD7-CF5D-4739-A881-3B070B880F87}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11049 행렬 곱셈 순서", "11049 행렬 곱셈 순서\11049 행렬 곱셈 순서.vcxproj", "{1F1E5192-A7F9-4F2E-92E2-312DA0539CA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3301,6 +3303,14 @@ Global
 		{B8EBCBD7-CF5D-4739-A881-3B070B880F87}.Release|x64.Build.0 = Release|x64
 		{B8EBCBD7-CF5D-4739-A881-3B070B880F87}.Release|x86.ActiveCfg = Release|Win32
 		{B8EBCBD7-CF5D-4739-A881-3B070B880F87}.Release|x86.Build.0 = Release|Win32
+		{1F1E5192-A7F9-4F2E-92E2-312DA0539CA8}.Debug|x64.ActiveCfg = Debug|x64
+		{1F1E5192-A7F9-4F2E-92E2-312DA0539CA8}.Debug|x64.Build.0 = Debug|x64
+		{1F1E5192-A7F9-4F2E-92E2-312DA0539CA8}.Debug|x86.ActiveCfg = Debug|Win32
+		{1F1E5192-A7F9-4F2E-92E2-312DA0539CA8}.Debug|x86.Build.0 = Debug|Win32
+		{1F1E5192-A7F9-4F2E-92E2-312DA0539CA8}.Release|x64.ActiveCfg = Release|x64
+		{1F1E5192-A7F9-4F2E-92E2-312DA0539CA8}.Release|x64.Build.0 = Release|x64
+		{1F1E5192-A7F9-4F2E-92E2-312DA0539CA8}.Release|x86.ActiveCfg = Release|Win32
+		{1F1E5192-A7F9-4F2E-92E2-312DA0539CA8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
